@@ -12,6 +12,7 @@ The purpose of performing this analysis is to determine when is the most opportu
 
 To gather the data needed to make the launch date analysis, I created a pivot chart that sorted Kickstarter campaigns by launch month and outcome.  This allowed me to chart this data in a line graph that shows a clear picture of how many campaigns were launched each month and whether they were successful. Below I have shared an image of the pivot table and the chart will be shared with the launch date analysis. The challenging part of this analysis was sorting the months launched from the overall launch date.
 
+![image](https://user-images.githubusercontent.com/78807451/115763514-894c2480-a372-11eb-866e-cca5a5b2b4b9.png)
 
 
 ### Analysis of Outcomes Based on Launch Date
