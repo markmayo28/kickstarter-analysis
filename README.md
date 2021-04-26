@@ -27,7 +27,8 @@ The time of the year when a Kickstarter campaign is launched has a noticeable im
 
 
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/78807451/116124499-5e274500-a692-11eb-899d-4162dab28b1d.PNG)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/78807451/116126342-89ab2f00-a694-11eb-8357-7cb7367d60e1.PNG)
+
 
 
 
