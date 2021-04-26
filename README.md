@@ -6,7 +6,7 @@ This analysis looks at launch dates of Kickstarter campaigns for theater project
 
 ### Purpose
 
-The purpose of performing this analysis is to determine when is the most opportune time to launch a Kickstarter campaign for a theater project and if there is an optimal level to set the goal.
+The purpose of performing this analysis is to determine when is the most opportune time to launch a Kickstarter campaign for a theater project and if there is an optimal level to set the goal to increase the chances of success.
 
 ## Analysis and Challenges
 
@@ -17,7 +17,19 @@ To gather the data needed to make the launch date analysis, I created a pivot ch
 
 ### Analysis of Outcomes Based on Launch Date
 
+The time of the year when a Kickstarter campaign is launched has a noticeable impact on the success rate of the campaign. Campaigns launched in the late spring have the best chance of achieving the desired goal.  This trends down over the course of the remainder of the year. The best time to launch is between the end of April and the beginning of September.  Campaigns launched late in the year are much less likely to be successful. This is likely due to the holidays when people are dealing with the associated expenses. 
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/78807451/116123517-148a2a80-a691-11eb-9f0a-b7570285f888.png)
+
 ### Analysis of Outcomes Based on Goals
+
+
+
+
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/78807451/116124499-5e274500-a692-11eb-899d-4162dab28b1d.PNG)
+
+
 
 ### Challenges and Difficulties Encountered
 
